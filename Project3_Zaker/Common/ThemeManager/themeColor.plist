@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>red</key>
+	<dict>
+		<key>R</key>
+		<integer>224</integer>
+		<key>G</key>
+		<integer>48</integer>
+		<key>B</key>
+		<integer>55</integer>
+	</dict>
+	<key>blue</key>
+	<dict>
+		<key>R</key>
+		<integer>71</integer>
+		<key>G</key>
+		<integer>153</integer>
+		<key>B</key>
+		<integer>222</integer>
+	</dict>
+	<key>pink</key>
+	<dict>
+		<key>R</key>
+		<integer>225</integer>
+		<key>G</key>
+		<integer>132</integer>
+		<key>B</key>
+		<integer>177</integer>
+	</dict>
+	<key>night</key>
+	<dict>
+		<key>R</key>
+		<integer>64</integer>
+		<key>G</key>
+		<integer>64</integer>
+		<key>B</key>
+		<integer>64</integer>
+	</dict>
+	<key>normal</key>
+	<dict>
+		<key>R</key>
+		<integer>153</integer>
+		<key>G</key>
+		<integer>169</integer>
+		<key>B</key>
+		<integer>168</integer>
+	</dict>
+</dict>
+</plist>
