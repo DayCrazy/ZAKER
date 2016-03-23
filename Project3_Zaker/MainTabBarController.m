@@ -24,6 +24,7 @@
 
 }
 
+#pragma mark ☞☀️ deallocNotification
 - (void)dealloc
 {
     [[NSNotificationCenter defaultCenter] removeObserver:self name:kThemeDidChangeNotification object:nil];
@@ -43,6 +44,7 @@
     [self _createTabBarView];
 }
 
+#pragma mark ☞☀️ theme
 - (void)themeChange:(NSNotification *)notification
 {
     [self _createTabBarView];

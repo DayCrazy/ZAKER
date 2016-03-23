@@ -11,7 +11,7 @@
 
 @implementation TabBarButton
 
-
+#pragma mark ☞☀️init
 - (id)initWithFrame:(CGRect)frame andImageName:(NSString *)imageName andTitle:(NSString *)title andColorName:(NSString *)colorName
 {
     self = [super initWithFrame:frame];
@@ -35,6 +35,7 @@
     return self;
 }
 
+#pragma mark ☞☀️ layout
 - (void)layoutSubviews
 {
     [super layoutSubviews];
